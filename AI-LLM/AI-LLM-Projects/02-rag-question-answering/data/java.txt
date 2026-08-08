@@ -1,0 +1,9 @@
+Java is an object-oriented programming language. It uses classes and objects to model programs.
+
+The four major object-oriented principles are encapsulation, abstraction, inheritance and polymorphism.
+
+Inheritance allows a class to acquire properties and methods from another class. Common forms discussed with Java classes are single, multilevel and hierarchical inheritance. Java does not support multiple inheritance through classes, but multiple interfaces can be implemented.
+
+Method overloading means using the same method name with different parameter lists. Method overriding occurs when a subclass provides its own implementation of an inherited method.
+
+An interface defines a contract that implementing classes must follow. Interfaces are useful for abstraction and for supporting multiple inheritance of type.

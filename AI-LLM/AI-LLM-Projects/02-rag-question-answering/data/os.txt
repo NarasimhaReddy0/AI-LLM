@@ -1,0 +1,9 @@
+An operating system is system software that manages computer hardware and provides services to application programs.
+
+Major operating system services include process management, memory management, file management, I/O management, protection and security, and resource allocation.
+
+A process is a program in execution. Typical process states include New, Ready, Running, Waiting or Blocked, and Terminated.
+
+CPU scheduling decides which ready process should receive the CPU. Common scheduling algorithms include First-Come First-Served, Shortest Job First, Priority Scheduling and Round Robin.
+
+Round Robin scheduling uses a time quantum. Each ready process gets the CPU for at most one time quantum before the scheduler moves to the next process.

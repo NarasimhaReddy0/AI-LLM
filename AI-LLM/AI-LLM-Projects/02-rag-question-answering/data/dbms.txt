@@ -1,0 +1,9 @@
+A database management system, or DBMS, is software used to create, store, organize and retrieve data.
+
+A relational database stores data in tables consisting of rows and columns. A primary key uniquely identifies a row in a table.
+
+A foreign key is a column or set of columns used to establish a relationship between tables. It references a key in another table.
+
+SQL is used to define, manipulate and query relational data. SELECT retrieves data, INSERT adds rows, UPDATE modifies rows, and DELETE removes rows.
+
+Normalization organizes data to reduce redundancy and improve data integrity. Common normal forms include First Normal Form, Second Normal Form and Third Normal Form.

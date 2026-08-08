@@ -1,0 +1,11 @@
+Artificial intelligence has become an important area of computer science because modern systems can perform tasks that traditionally required human intelligence. These tasks include language understanding, image recognition, recommendation, planning and decision support.
+
+Machine learning is one of the main approaches used to build AI systems. Instead of writing every rule manually, developers train models using examples. Supervised learning uses labeled examples, while unsupervised learning searches for patterns in data without explicit labels. Reinforcement learning learns through actions, feedback and rewards.
+
+Deep learning is a subset of machine learning based on neural networks with many layers. It has achieved strong results in areas such as computer vision, speech recognition and natural language processing. Large language models are a modern example of deep learning systems that can process and generate text.
+
+AI is used in healthcare to support medical image analysis and research, in finance for fraud detection and risk analysis, in education for personalized learning, and in manufacturing for quality control and predictive maintenance.
+
+Despite these benefits, AI systems have important challenges. Poor or biased training data can produce unfair outcomes. Models can also make incorrect predictions or generate unsupported information. Organizations therefore need appropriate evaluation, human oversight, privacy protections and security controls.
+
+Responsible AI focuses on building systems that are useful while also considering safety, fairness, transparency, privacy and accountability. As AI capabilities continue to develop, technical improvements need to be combined with good governance and responsible deployment practices.
